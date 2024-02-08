@@ -1,10 +1,8 @@
-<div align="center">
-  <img height="200" src="https://miro.medium.com/v2/resize:fit:1400/0*pMExdYngvhLN6GCb.gif"  />
-</div>
+<img align="right" height="200" src="https://miro.medium.com/v2/resize:fit:1400/0*pMExdYngvhLN6GCb.gif"  />
 
 ###
 
-<h3 align="center">Hi 👋! My name is Rizwan Khan. <br>A passionate Data Scientist from UK. I am a passionate and detail-oriented data scientist with expertise in Python, SQL, Power BI, Tableau, SPSS, and Excel. My goal is to extract valuable insights from data and drive informed decision-making. With a strong background in statistical analysis and data visualization, I enjoy turning raw data into meaningful narratives.</h3>
+<h3 align="center">Hi 👋! My name is Rizwan Khan. <br>I am a passionate and detail-oriented data scientist with expertise in Python, SQL, Power BI, Tableau, SPSS, and Excel. My goal is to extract valuable insights from data and drive informed decision-making. With a strong background in statistical analysis and data visualization, I enjoy turning raw data into meaningful narratives.</h3>
 
 ###
 
